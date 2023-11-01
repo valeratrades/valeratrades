@@ -1,6 +1,9 @@
 <p align="center">
-  <strong>Projects</strong>
+  <span><strong>Projects</strong></span>
+  <img src="https://img.shields.io/badge/%20-%23FFFFFF.svg?&style=for-the-badge&logoColor=white"/>
+  <span><strong>Find Me</strong></span>
 </p>
+
 <p align="center">
   <a href="https://github.com/Valera6/valera">
     <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
@@ -11,16 +14,7 @@
   <a href="https://github.com/Valera6/BTCline">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   </a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/%20-%23FFFFFF.svg?&style=for-the-badge&logoColor=white"/>
-</p>
-
-<p align="center">
-  <strong>Find Me</strong>
-</p>
-<p align="center">
   <a href="https://discord.com/users/valeratrades">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
