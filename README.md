@@ -2,14 +2,14 @@
   <div style="align-self: flex-start;">
     <strong>Find Me</strong>
     <div>
-      <a href="https://discord.com/users/valeratrades">
-        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+      <a href="https://twitter.com/ValerySakharov1">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
       </a>
       <a href="https://t.me/valeratrades">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
       </a>
-      <a href="https://twitter.com/ValerySakharov1">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+      <a href="https://discord.com/users/valeratrades">
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
       </a>
     </div>
   </div>
