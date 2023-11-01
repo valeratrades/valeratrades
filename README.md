@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/%20-%23FFFFFF.svg?&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/%20-%23FFFFFF.svg?&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/%20-%23FFFFFF.svg?&style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/%20-%23FFFFFF.svg?&style=for-the-badge&logoColor=white"/>
   <span><strong>Code In</strong></span>
 </p>
 
@@ -24,7 +23,6 @@
   <a href="https://twitter.com/ValerySakharov1">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/%20-%23FFFFFF.svg?&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/%20-%23FFFFFF.svg?&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/%20-%23FFFFFF.svg?&style=for-the-badge&logoColor=white"/>
   <a href="https://github.com/Valera6/valera">
