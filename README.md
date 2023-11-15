@@ -3,7 +3,7 @@
     <strong>Find Me</strong>
     <div>
       <a href="https://twitter.com/ValerySakharov1">
-        <img src="./icon_twitter.svg"/>
+        <img src="./assets/icon_twitter.svg"/>
       </a>
       <a href="https://t.me/valeratrades">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
