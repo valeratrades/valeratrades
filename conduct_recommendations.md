@@ -18,6 +18,8 @@ That translates to being number 1 out of 31574. This is practically unattainable
 ### Reason
 I have one life. I want it to be a life of someone smart. Reaching for material targets is futile, as any worldly experience is limited by capacity of the brain processing it.
 
+Reaching for 4std skill (or e.g., an arbitrary large number of money) is a way of quantifying intellect and "life interestingness" measurements, as both are given if one reaches these.
+
 ### NB
 There are very few things that I am absolutely firm on, but my goals are in that number. If you attempt to net-negatively influence my importance estimates for them in absolute or relative terms (to other possible endeavors) - we are done that very second.
 
