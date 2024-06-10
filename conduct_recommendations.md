@@ -35,3 +35,6 @@ If you must impose your goal on me: convert the target result into side-effects 
 - Direct pursuit of a goal will obviously result in a faster convergence time, but always at the expense of other achievements.
 
 Considering difficultly of my goal, I cannot afford to spend any amount of time optimising for secondary targets. Most areas of my life being on fire is a sign I'm doing something right. Thus the only way you can get me to arrive to your arbitrary end is by pushing me to prioritize converging to some specific points of my path, that will grant the side-effects sufficient for covering your goal for free or with now minimal effort. In most cases for that to work out I must do an extraordinary amount of work in relatively short period of time, but this is the only way to impose something on me without prompting my immediate distancing.
+
+## Conversation starters
+unimplemented!()
